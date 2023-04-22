@@ -1,6 +1,6 @@
 from helper import *
 
-os.environ["OPENAI_API_KEY"] = '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'
+os.environ["OPENAI_API_KEY"] = ''
 
 
 def ask_bot(doc_name):
